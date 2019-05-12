@@ -1,7 +1,7 @@
-# NVIDIA JetBot Diy
-NVIDIA JetBot Diy 资料汇总区
+# Awesome Nvidia Jetbot
+NVIDIA JetBot 资料汇总区
 
-## JetBot 组装
+## JetBot Diy
 - [JetBot 中国区零件购买清单及资料汇总 WiKi](https://github.com/unbug/NVIDIA-JetBot-Diy/wiki)
 
 ## JetBot Tools
