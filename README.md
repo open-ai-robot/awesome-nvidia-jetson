@@ -1,5 +1,5 @@
 # Awesome Nvidia Jetson
-NVIDIA 基于 Jetson 的开源机器人 [JetBot](https://github.com/NVIDIA-AI-IOT/jetbot)/[JetRacer](https://github.com/NVIDIA-AI-IOT/jetracer)/[Kaya](https://docs.nvidia.com/isaac/isaac/apps/tutorials/doc/assemble_kaya.html) 资料汇总区
+NVIDIA 基于 Jetson 的开源机器人 [JetBot](https://github.com/NVIDIA-AI-IOT/jetbot)/[JetRacer](https://github.com/NVIDIA-AI-IOT/jetracer)/[Kaya](https://github.com/nvidia-isaac/kaya-robot) 资料汇总区
 
 ## JetBot
 
