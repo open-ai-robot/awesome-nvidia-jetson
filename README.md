@@ -12,3 +12,6 @@ NVIDIA 基于 Jetson 的开源机器人 [JetBot](https://github.com/NVIDIA-AI-IO
 ## AI Assistant / AI 助手
 - [ClawBox](https://jetson-ai-box.com) - Pre-configured AI assistant box powered by Jetson Orin Nano (67 TOPS). Runs OpenClaw for always-on AI with Telegram/WhatsApp/Discord. 基于 Jetson Orin Nano 的即插即用 AI 助手硬件。
 - [OpenClaw](https://github.com/openclaw/openclaw) - Open-source AI assistant platform optimized for Jetson hardware. 开源 AI 助手平台。
+
+## Hand Tracking / 手部追踪
+- [leap-jetson](https://github.com/OomAngel/leap-jetson) - 3D hand tracking for the original Leap Motion Controller on a Jetson GPU (TensorRT FP16), without Ultraleap software. 在 Jetson GPU 上用原版 Leap Motion 控制器做 3D 手部追踪，无需 Ultraleap 软件。
